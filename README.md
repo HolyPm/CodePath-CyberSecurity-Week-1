@@ -2,4 +2,4 @@
 
 Week 1 Lab
 
-<img src="
+<img src="Codepath Cyber Security Week 1.gif">
